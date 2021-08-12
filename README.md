@@ -1,5 +1,6 @@
-# Progetto_DataScience
-Progetto del corso "Fondamenti di Scienza Dati" (Data Science)
+# Progetto Data Science
 
-Studente: Andrea Brollo
-Matricola: 147293
+Progetto del corso "**Fondamenti di Scienza Dati**" (Data Science)
+
+Studente: **Andrea Brollo**  
+Matricola: **147293**
