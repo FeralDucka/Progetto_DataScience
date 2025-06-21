@@ -17,7 +17,7 @@ Basta scaricare la cartella da GitHub e aprire il file "**compiled.slides.html**
 <br>
 <br>
 
-# 2. Come compilare le slides da zero? 🖥 🚧​
+# Come compilare le slides da zero? 🖥 🚧​
 
 <br>
 
@@ -31,3 +31,11 @@ Basta scaricare la cartella da GitHub e aprire il file "**compiled.slides.html**
 <br>
 
 4. Eseguire il file bash **compile_slides.sh**
+
+<br>
+<br>
+<br>
+
+# Dove sono salvati i dataset?
+
+I dataset sono salvati nell'omonima cartella in format .CSV (con separatore "**;**")
