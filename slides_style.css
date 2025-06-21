@@ -1,0 +1,39 @@
+.slides {
+    /* width: 90% !important; */
+}
+
+.present {
+    height: 100% !important;
+    padding: 0px !important;
+}
+
+.jp-Cell {
+    height: 100% !important;
+    padding: 0px !important;
+}
+
+.jp-InputPrompt {
+    width: 1vw !important;
+}
+
+.jp-Cell-inputWrapper {
+    height: 100% !important;
+}
+
+.map_h2 {
+    margin: 0px !important;
+}
+
+.map_center {
+    position: relative;
+    height: 61vh !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: unset;
+}
+
+.img_description {
+    color: #666666;
+    font-size: 15px !important;
+}
